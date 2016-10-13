@@ -1,4 +1,4 @@
-package com.example.deni.jarvis;
+package com.example.deni.Jarvis;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.deni.jarvis;
+package com.example.deni.Jarvis;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
